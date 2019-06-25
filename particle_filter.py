@@ -14,8 +14,6 @@ def mapCorrelation(im, x_im, y_im, vp, xs, ys):
     Returns: 
         cpr: sum of the cell values of all the positions hit by range sensor
 
-    THIS IS DEPRECIATED, UPDATED VERSION MANUALLY ENGINEERED DOWN BELOW. KEPT FOR REFERENCE
-
     '''
     nx = im.shape[0]
     ny = im.shape[1]
